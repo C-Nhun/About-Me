@@ -1,0 +1,15 @@
+---
+title: "About Me"
+author: "Chun Ni"
+date: "2019-9-5"
+output: html_document
+---
+![](https://i.imgur.com/3wLAlM0.jpg){width=250px}
+
+I want to know if Manchester City will become the Premier League champ this season.
+
+I want to take a trip to Japan 6 month after graduation. After five years, I still want to go to Japan. According to the recent, the story of One Piece will come to the end after five years. So, I want to visit the mesume for One Piece when it comes to an end.
+
+My goal is become a data analysts. I want to learn how to use R to solve stats problems and build module.
+
+I hope WWE will come to China once more.
